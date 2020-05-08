@@ -16,6 +16,7 @@ module.exports = {
   devServer: {
     contentBase: "./dist",
   },
+
   //使用html插件 生成html，html会自动引入js
   //会生成一个默认的index.html
   //通过传参改变html1的内容，看文档
